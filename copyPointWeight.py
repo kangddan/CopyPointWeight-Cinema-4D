@@ -1,8 +1,8 @@
 import c4d
 from c4d import gui
 doc = c4d.documents.GetActiveDocument()
-class CopyPointWeightUI(gui.GeDialog):
 
+class CopyPointWeightUI(gui.GeDialog):
     UI_INSTANCE = None
     @classmethod
     def UIDisplay(cls):
