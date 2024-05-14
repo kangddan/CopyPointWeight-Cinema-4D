@@ -6,4 +6,3 @@
 
 `CopyPointWeightUI.UIDisplay()`
 
-注意直接运行脚本时 每次点击脚本都会创建新的ui实例
