@@ -6,3 +6,4 @@
 
 `CopyPointWeightUI.UIDisplay()`
 
+选择一个点复制权重，然后粘贴！
